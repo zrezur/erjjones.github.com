@@ -1,0 +1,31 @@
+---
+layout: post
+title: XXX test
+category: Coding
+tags: fuelux jquery bootstrap requirejs grunt amd 
+year: 2014
+month: 01
+day: 01
+published: true
+summary: some summary
+image: post_four.png
+---
+
+<div class="row">	
+	<div class="span9 columns">
+xxx test tresc
+
+	</div>
+</div>
+
+<!-- Twitter -->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<!-- Google + -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
